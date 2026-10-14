@@ -41,6 +41,14 @@
 
 ═══════════════════════════════════════════════════════════════════════════════
 
+## Мои контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zenoheld)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/nekoreshh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiko.alim.i.1.25@gmail.com)
+[![Mail.ru](https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:cayko1@mail.ru)
+
+═══════════════════════════════════════════════════════════════════════════════
 ## Моя активность
 
 <picture>
